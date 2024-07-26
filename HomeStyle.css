@@ -1,0 +1,54 @@
+
+body{
+    color: white;
+    background-color: navy;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    font-style: underline;
+}
+
+#web_contents{
+    color: white;
+    float: right;
+}
+
+#AstronomyPic{
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+a{
+    color:white;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px
+}
+
+nav{
+    text-align:center;
+}
+
+#Thankyou_section{
+    text-align:center;
+    font-style: italic;
+    font-size: 14px;
+}
+
+li, ul{
+    text-align:center;
+}
+
+h2{
+    font-size: 25px;
+    font-style: underline;
+    margin-left: 20px;
+}
